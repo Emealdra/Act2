@@ -1,0 +1,28 @@
+{
+  "rates": [
+    {
+      "currency": "PHP",
+      "rate": 1
+    },
+    {
+      "currency": "USD",
+      "rate": 58.01
+    },
+    {
+      "currency": "SNG",
+      "rate": 43.02
+    },
+    {
+      "currency": "JPY",
+      "rate": 0.48
+    },
+    {
+      "currency": "EUR",
+      "rate": 57.03
+    },
+    {
+      "currency": "AUD",
+      "rate": 36.04
+    }
+  ]
+}
