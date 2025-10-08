@@ -1,0 +1,27 @@
+==============================
+FX APP  (FOREIGN EXCHANGE APP)
+============================== 
+
+OPERATIONS:
+[1] View Available Rates
+[2] Convert Money
+
+Option: 1
+_______________________________________________
+FX Rates
+Source Currency    Target Currency        Rate
+    USD                 PHP               58.01
+    SNG                 PHP               43.02
+    JPY                 PHP               0.48
+    EUR                 PHP               57.03
+    AUD                 PHP               36.04   
+
+Option: 2
+_______________________________________________
+Source Currency: USD
+Target Currency: PHP
+Amount in {USD}: 2
+Converted Amount: 116.02 PHP
+
+Notes:
+- Input FX RATES in JSON

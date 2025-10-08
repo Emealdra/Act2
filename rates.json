@@ -1,0 +1,9 @@
+[
+  {"source_currency": "USD", "target_currency": "EUR", "rate": 0.85},
+  {"source_currency": "USD", "target_currency": "GBP", "rate": 0.73},
+  {"source_currency": "USD", "target_currency": "PHP", "rate": 50.25},
+  {"source_currency": "EUR", "target_currency": "GBP", "rate": 0.86},
+  {"source_currency": "EUR", "target_currency": "PHP", "rate": 59.12},
+  {"source_currency": "GBP", "target_currency": "PHP", "rate": 68.75}
+  
+]
